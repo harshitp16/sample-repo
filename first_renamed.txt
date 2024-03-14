@@ -6,3 +6,5 @@ This is changed now
 
 sdcasdasczsdvf
 This is from master
+
+This is it added in the bugfix branch
